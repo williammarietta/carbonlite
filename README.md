@@ -1,4 +1,4 @@
-# CarbonLite (super simple CO2 trip thing)
+# CarbonLite (simple CO2 trip calculator + other)
 
 This is just a tiny program I made to see how much CO2 my trips make and what I'd save if I switched some of them to bus/bike/walk/train. It saves stuff into a CSV so I can look at it later.
 
